@@ -167,4 +167,4 @@ mqtt.subscribe('device_id_1', 3, 'page_1', message => {
 });
 // 取消订阅某条消息（退出页面，取消不需要的订阅）
 mqtt.unsubscribe('device_id_1', 2, 'page_1');
-//# sourceMappingURL=greeter.js.map
+//# sourceMappingURL=mqtt.js.map
